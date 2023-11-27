@@ -26,3 +26,8 @@ The challenge is to find the highest value of consonant substrings in a given lo
 Approach and Solution
 The solution involves implementing a function solve(word) that accepts a lowercase string containing only alphabetic characters and no spaces. The function calculates the highest value of consonant substrings, excluding vowels ("aeiou"), using ASCII values. It iterates through the characters, accumulates the value of consonant substrings, and keeps track of the maximum value found.
 
+## Author
+Clair Karanja
+
+## License
+This project is licensed under the MIT License.
